@@ -5,6 +5,7 @@ An automated, general-purpose computational pipeline for analysing the molecular
 This repository contains a robust, automated computational pipeline designed to bridge single-chain atomic structural dynamics with mesoscale liquid-liquid phase separation (LLPS) behaviour. 
 
 While originally developed and validated using the C-terminal intrinsically disordered region (IDR) of Synapsin-1 and the DNAJB6 condensing system, **this pipeline is highly generalisable and can be applied to molecular dynamics (MD) trajectories of any phase-separating protein or IDP.**
+This code was written with assistance from Gemini 3.1 Pro.
 
 ## Features
 The toolkit integrates monomeric structural analysis with multi-chain macroscopic kinetic tracking:
